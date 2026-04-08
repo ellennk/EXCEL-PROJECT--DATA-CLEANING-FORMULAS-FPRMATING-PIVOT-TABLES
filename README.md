@@ -1,3 +1,4 @@
+[CLEAN DATA.xlsx](https://github.com/user-attachments/files/26557696/CLEAN.DATA.xlsx)
 # EXCEL-PROJECT--DATA-CLEANING/PRE-PROCESSING
 
 ### PROJECT OVERVIEW
