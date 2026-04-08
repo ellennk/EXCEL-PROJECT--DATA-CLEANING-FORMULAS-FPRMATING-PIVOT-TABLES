@@ -1,4 +1,4 @@
-# EXCEL-PROJECT--DATA-CLEANING-FORMULAS-FPRMATING-PIVOT-TABLES
+# EXCEL-PROJECT--DATA-CLEANING/PRE-PROCESSING
 
 ### PROJECT OVERVIEW
 This project covers the line between a workable data and a raw one.It spells out how a raw data can be cleaned well enough to be used for further analysis. The focus is on systematically identifying and correcting errors- such as duplicates,missing values and inconsistent formats.
